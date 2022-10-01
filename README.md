@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pablo Szejpiacki</h1>
+![me](https://res.cloudinary.com/dt6bh94iu/image/upload/v1664656273/Pablo_Szejpiacki_uhieal.gif)
 <h3 align="center">Full Stack Developer with Backend preference from Argentina</h3>
 
 - 💬 Ask me about **React, NodeJS, Sequelize, Python, Sql, Php.**
