@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pablo</h1>
-![image](https://user-images.githubusercontent.com/46658742/193427373-1396a8de-9e38-4d82-bf95-143cccf1c3cb.gif)
-<h3 align="center">Full Stack Developer with Backend preference from Argentina</h3>
+<img src="https://github.com/molder26/molder26/raw/main/Pablo%20Szejpiacki.png" alt="banner that says Pablo Szejpiacki - Full Stack Developer - React | NodeJS | Sequelize">
 
 - 💬 Ask me about **React, NodeJS, Sequelize, Python, Sql, Php.**
 
