@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **molder26@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1WRT_HdyUj4wOR7BbQOuxAWN6VgPMf-x_/edit?usp=sharing&ouid=100262741446582763669&rtpof=true&sd=true](https://docs.google.com/document/d/1WRT_HdyUj4wOR7BbQOuxAWN6VgPMf-x_/edit?usp=sharing&ouid=100262741446582763669&rtpof=true&sd=true)
+- 📄 Know about my experiences [download](https://docs.google.com/document/d/1WRT_HdyUj4wOR7BbQOuxAWN6VgPMf-x_/edit?usp=sharing&ouid=100262741446582763669&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
